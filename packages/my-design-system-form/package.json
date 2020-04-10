@@ -3,7 +3,7 @@
   "version": "0.0.3",
   "main": "index.js",
   "dependencies": {
-    "@mdvoy/my-design-system-button": "^0.0.2"
+    "@sliim35/my-design-system-button": "^0.0.2"
   },
   "publishConfig": {
     "access": "public"
