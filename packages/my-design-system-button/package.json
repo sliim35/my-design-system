@@ -1,9 +1,9 @@
 {
-  "name": "@mdvoy/my-design-system-button",
+  "name": "@sliim35/my-design-system-button",
   "version": "0.0.2",
   "main": "index.js",
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "21839fabec06ead1e3e9702cf77d5732a5cde73e"
+  "gitHead": "67b1b14dc952faa7db81902d968f4bc789b0c417"
 }
