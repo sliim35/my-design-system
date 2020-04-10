@@ -4,5 +4,9 @@
   "main": "index.js",
   "dependencies": {
     "@mdvoy/my-design-system-button": "^0.0.1"
-  }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "21839fabec06ead1e3e9702cf77d5732a5cde73e"
 }

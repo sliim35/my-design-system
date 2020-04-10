@@ -1,5 +1,9 @@
 {
   "name": "@mdvoy/my-design-system-button",
   "version": "0.0.1",
-  "main": "index.js"
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "21839fabec06ead1e3e9702cf77d5732a5cde73e"
 }
