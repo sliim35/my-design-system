@@ -1,9 +1,9 @@
 {
   "name": "@mdvoy/my-design-system-form",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "dependencies": {
-    "@mdvoy/my-design-system-button": "^0.0.1"
+    "@mdvoy/my-design-system-button": "^0.0.2"
   },
   "publishConfig": {
     "access": "public"
