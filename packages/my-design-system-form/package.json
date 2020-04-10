@@ -1,0 +1,8 @@
+{
+  "name": "@mdvoy/my-design-system-form",
+  "version": "0.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@mdvoy/my-design-system-button": "^0.0.0"
+  }
+}
